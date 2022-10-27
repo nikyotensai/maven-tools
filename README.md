@@ -1,1 +1,1 @@
-# ossrh-plugin
+# maven-tools
