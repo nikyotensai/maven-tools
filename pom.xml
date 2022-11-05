@@ -4,10 +4,10 @@
 
     <groupId>com.github.nikyotensai</groupId>
     <artifactId>maven-tools</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0.1</version>
     <packaging>pom</packaging>
-    <name>${artifactId}</name>
-    <description>${artifactId}</description>
+    <name>${project.artifactId}</name>
+    <description>${project.artifactId}</description>
     <url>https://github.com/nikyotensai/maven-tools.git</url>
 
     <scm>
